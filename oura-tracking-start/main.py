@@ -5,7 +5,7 @@ import pprint
 from datetime import date, timedelta
 from oura import OuraClient
 
-soup = OuraClient(personal_access_token="57YMETS637H5XH6FUASL6OPKTAPJXHLU")
+soup = OuraClient(personal_access_token="  ")
 
 # Get today's date
 today = date.today()
